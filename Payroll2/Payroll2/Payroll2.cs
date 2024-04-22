@@ -2,7 +2,7 @@ namespace Payroll2
 {
     public partial class frmPayroll2 : Form
     {
-        //declare variables at form level
+        //declare constants and variables at form level
 
 
         //create parallel arrays to store employee names and pay
@@ -13,7 +13,7 @@ namespace Payroll2
             InitializeComponent();
         }
         
-        //Obtain values from user input
+        //Obtain uesr-entered values
 
 
         //Need to include methods to validate user-entered data

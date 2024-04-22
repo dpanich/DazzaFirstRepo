@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dazza\\source\\repos\\Payroll2\\Payroll2\\Payroll2.csproj",
+      "projectUniqueName": "C:\\Users\\Dazza\\source\\repos\\FirstGitRepository\\Payroll2\\Payroll2\\Payroll2.csproj",
       "projectName": "Payroll2",
-      "projectPath": "C:\\Users\\Dazza\\source\\repos\\Payroll2\\Payroll2\\Payroll2.csproj",
+      "projectPath": "C:\\Users\\Dazza\\source\\repos\\FirstGitRepository\\Payroll2\\Payroll2\\Payroll2.csproj",
       "packagesPath": "C:\\Users\\Dazza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dazza\\source\\repos\\Payroll2\\Payroll2\\obj\\",
+      "outputPath": "C:\\Users\\Dazza\\source\\repos\\FirstGitRepository\\Payroll2\\Payroll2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dazza\\AppData\\Roaming\\NuGet\\NuGet.Config",
