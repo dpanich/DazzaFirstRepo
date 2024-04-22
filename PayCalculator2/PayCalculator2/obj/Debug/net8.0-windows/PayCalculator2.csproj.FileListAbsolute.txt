@@ -1,0 +1,6 @@
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\obj\Debug\net8.0-windows\PayCalculator2.PayCalculator2.resources
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\obj\Debug\net8.0-windows\PayCalculator2.csproj.GenerateResource.cache
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\obj\Debug\net8.0-windows\PayCalculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\obj\Debug\net8.0-windows\PayCalculator2.AssemblyInfoInputs.cache
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\obj\Debug\net8.0-windows\PayCalculator2.AssemblyInfo.cs
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\obj\Debug\net8.0-windows\PayCalculator2.csproj.CoreCompileInputs.cache

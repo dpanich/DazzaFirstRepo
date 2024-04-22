@@ -1,0 +1,16 @@
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\obj\Debug\net6.0-windows7.0\PayCalculator2.PayCalculator2.resources
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\obj\Debug\net6.0-windows7.0\PayCalculator2.csproj.GenerateResource.cache
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\obj\Debug\net6.0-windows7.0\PayCalculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\obj\Debug\net6.0-windows7.0\PayCalculator2.AssemblyInfoInputs.cache
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\obj\Debug\net6.0-windows7.0\PayCalculator2.AssemblyInfo.cs
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\obj\Debug\net6.0-windows7.0\PayCalculator2.csproj.CoreCompileInputs.cache
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\bin\Debug\net6.0-windows7.0\PayCalculator2.exe
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\bin\Debug\net6.0-windows7.0\PayCalculator2.deps.json
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\bin\Debug\net6.0-windows7.0\PayCalculator2.runtimeconfig.json
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\bin\Debug\net6.0-windows7.0\PayCalculator2.dll
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\bin\Debug\net6.0-windows7.0\PayCalculator2.pdb
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\obj\Debug\net6.0-windows7.0\PayCalculator2.dll
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\obj\Debug\net6.0-windows7.0\refint\PayCalculator2.dll
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\obj\Debug\net6.0-windows7.0\PayCalculator2.pdb
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\obj\Debug\net6.0-windows7.0\PayCalculator2.genruntimeconfig.cache
+C:\Users\Dazza\source\repos\PayCalculator2\PayCalculator2\obj\Debug\net6.0-windows7.0\ref\PayCalculator2.dll

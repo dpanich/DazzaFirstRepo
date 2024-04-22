@@ -1,0 +1,16 @@
+C:\Users\Dazza\source\repos\GradeCalculator2\GradeCalculator2\bin\Debug\net8.0-windows7.0\GradeCalculator2.exe
+C:\Users\Dazza\source\repos\GradeCalculator2\GradeCalculator2\bin\Debug\net8.0-windows7.0\GradeCalculator2.deps.json
+C:\Users\Dazza\source\repos\GradeCalculator2\GradeCalculator2\bin\Debug\net8.0-windows7.0\GradeCalculator2.runtimeconfig.json
+C:\Users\Dazza\source\repos\GradeCalculator2\GradeCalculator2\bin\Debug\net8.0-windows7.0\GradeCalculator2.dll
+C:\Users\Dazza\source\repos\GradeCalculator2\GradeCalculator2\bin\Debug\net8.0-windows7.0\GradeCalculator2.pdb
+C:\Users\Dazza\source\repos\GradeCalculator2\GradeCalculator2\obj\Debug\net8.0-windows7.0\GradeCalculator2.GradeCalculator2.resources
+C:\Users\Dazza\source\repos\GradeCalculator2\GradeCalculator2\obj\Debug\net8.0-windows7.0\GradeCalculator2.csproj.GenerateResource.cache
+C:\Users\Dazza\source\repos\GradeCalculator2\GradeCalculator2\obj\Debug\net8.0-windows7.0\GradeCalculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dazza\source\repos\GradeCalculator2\GradeCalculator2\obj\Debug\net8.0-windows7.0\GradeCalculator2.AssemblyInfoInputs.cache
+C:\Users\Dazza\source\repos\GradeCalculator2\GradeCalculator2\obj\Debug\net8.0-windows7.0\GradeCalculator2.AssemblyInfo.cs
+C:\Users\Dazza\source\repos\GradeCalculator2\GradeCalculator2\obj\Debug\net8.0-windows7.0\GradeCalculator2.csproj.CoreCompileInputs.cache
+C:\Users\Dazza\source\repos\GradeCalculator2\GradeCalculator2\obj\Debug\net8.0-windows7.0\GradeCalculator2.dll
+C:\Users\Dazza\source\repos\GradeCalculator2\GradeCalculator2\obj\Debug\net8.0-windows7.0\refint\GradeCalculator2.dll
+C:\Users\Dazza\source\repos\GradeCalculator2\GradeCalculator2\obj\Debug\net8.0-windows7.0\GradeCalculator2.pdb
+C:\Users\Dazza\source\repos\GradeCalculator2\GradeCalculator2\obj\Debug\net8.0-windows7.0\GradeCalculator2.genruntimeconfig.cache
+C:\Users\Dazza\source\repos\GradeCalculator2\GradeCalculator2\obj\Debug\net8.0-windows7.0\ref\GradeCalculator2.dll

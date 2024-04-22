@@ -1,0 +1,16 @@
+C:\Users\Dazza\source\repos\Payroll2\Payroll2\bin\Debug\net8.0-windows7.0\Payroll2.exe
+C:\Users\Dazza\source\repos\Payroll2\Payroll2\bin\Debug\net8.0-windows7.0\Payroll2.deps.json
+C:\Users\Dazza\source\repos\Payroll2\Payroll2\bin\Debug\net8.0-windows7.0\Payroll2.runtimeconfig.json
+C:\Users\Dazza\source\repos\Payroll2\Payroll2\bin\Debug\net8.0-windows7.0\Payroll2.dll
+C:\Users\Dazza\source\repos\Payroll2\Payroll2\bin\Debug\net8.0-windows7.0\Payroll2.pdb
+C:\Users\Dazza\source\repos\Payroll2\Payroll2\obj\Debug\net8.0-windows7.0\Payroll2.frmPayroll2.resources
+C:\Users\Dazza\source\repos\Payroll2\Payroll2\obj\Debug\net8.0-windows7.0\Payroll2.csproj.GenerateResource.cache
+C:\Users\Dazza\source\repos\Payroll2\Payroll2\obj\Debug\net8.0-windows7.0\Payroll2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dazza\source\repos\Payroll2\Payroll2\obj\Debug\net8.0-windows7.0\Payroll2.AssemblyInfoInputs.cache
+C:\Users\Dazza\source\repos\Payroll2\Payroll2\obj\Debug\net8.0-windows7.0\Payroll2.AssemblyInfo.cs
+C:\Users\Dazza\source\repos\Payroll2\Payroll2\obj\Debug\net8.0-windows7.0\Payroll2.csproj.CoreCompileInputs.cache
+C:\Users\Dazza\source\repos\Payroll2\Payroll2\obj\Debug\net8.0-windows7.0\Payroll2.dll
+C:\Users\Dazza\source\repos\Payroll2\Payroll2\obj\Debug\net8.0-windows7.0\refint\Payroll2.dll
+C:\Users\Dazza\source\repos\Payroll2\Payroll2\obj\Debug\net8.0-windows7.0\Payroll2.pdb
+C:\Users\Dazza\source\repos\Payroll2\Payroll2\obj\Debug\net8.0-windows7.0\Payroll2.genruntimeconfig.cache
+C:\Users\Dazza\source\repos\Payroll2\Payroll2\obj\Debug\net8.0-windows7.0\ref\Payroll2.dll
